@@ -30,12 +30,11 @@ python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 python3 scrapper.py
+python3 scrape_perfumes.py
 ```
 
 **Note**:Each version of Chrome depends on a specific driver. This project is running on the latest version of Chrome and the corresponding latest driver.
 check : https://googlechromelabs.github.io/chrome-for-testing/
-
-
 
 
 
