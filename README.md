@@ -33,8 +33,8 @@ python3 scrapper.py
 python3 scrape_perfumes.py
 ```
 
-**Note**:Each version of Chrome depends on a specific driver. This project is running on the latest version of Chrome and the corresponding latest driver.
-check : https://googlechromelabs.github.io/chrome-for-testing/
+**Note **: Each version of Chrome depends on a specific driver. This project runs on the latest version of Chrome and the corresponding latest driver.
+check: https://googlechromelabs.github.io/chrome-for-testing/
 
 
 
